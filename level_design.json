@@ -1,0 +1,348 @@
+{
+	"typeOfFile" : "json"
+	,"pattern" : {
+		"lvl_1" : {
+			"reflectionTimer" : 10
+			,"luck" : 95
+			,"aimBarre" : {
+				"aimBarre_1" : {
+					"id" : 0
+					,"size" : 48
+					,"frequence" : 60
+				}
+				,"aimBarre_2" : {
+					"id" : 1
+					,"size" : 58
+					,"frequence" : 65
+				}
+				,"aimBarre_3" : {
+					"id" : 2
+					,"size" : 68
+					,"frequence" : 70
+				}
+			}
+			,"popGoodPnj" : 10
+		}
+		,"lvl_2" : {
+			"reflectionTimer" : 10
+			,"luck" : 93
+			,"aimBarre" : {
+				"aimBarre_1" : {
+					"id" : 0
+					,"size" : 46
+					,"frequence" : 63
+				}
+				,"aimBarre_2" : {
+					"id" : 1
+					,"size" : 56
+					,"frequence" : 68
+				}
+				,"aimBarre_3" : {
+					"id" : 2
+					,"size" : 66
+					,"frequence" : 73
+				}
+			}
+			,"popGoodPnj" : 10
+		}
+		
+		,"lvl_3" : {
+			"reflectionTimer" : 10
+			,"luck" : 91
+			,"aimBarre" : {
+				"aimBarre_1" : {
+					"id" : 0
+					,"size" : 43
+					,"frequence" : 65
+				}
+				,"aimBarre_2" : {
+					"id" : 1
+					,"size" : 53
+					,"frequence" : 70
+				}
+				,"aimBarre_3" : {
+					"id" : 2
+					,"size" : 63
+					,"frequence" : 75
+				}
+			}
+			,"popGoodPnj" : 10
+		}
+		
+		,"lvl_4" : {
+			"reflectionTimer" : 10
+			,"luck" : 89
+			,"aimBarre" : {
+				"aimBarre_1" : {
+					"id" : 0
+					,"size" : 41
+					,"frequence" : 68
+				}
+				,"aimBarre_2" : {
+					"id" : 1
+					,"size" : 51
+					,"frequence" : 73
+				}
+				,"aimBarre_3" : {
+					"id" : 2
+					,"size" : 61
+					,"frequence" : 78
+				}
+			}
+			,"popGoodPnj" : 10
+		}
+		
+		,"lvl_5" : {
+			"reflectionTimer" : 10
+			,"luck" : 87
+			,"aimBarre" : {
+				"aimBarre_1" : {
+					"id" : 0
+					,"size" : 38
+					,"frequence" : 70
+				}
+				,"aimBarre_2" : {
+					"id" : 1
+					,"size" : 48
+					,"frequence" : 75
+				}
+				,"aimBarre_3" : {
+					"id" : 2
+					,"size" : 58
+					,"frequence" : 80
+				}
+			}
+			,"popGoodPnj" : 10
+		}
+		
+		,"lvl_6" : {
+			"reflectionTimer" : 10
+			,"luck" : 85
+			,"aimBarre" : {
+				"aimBarre_1" : {
+					"id" : 0
+					,"size" : 36
+					,"frequence" : 71
+				}
+				,"aimBarre_2" : {
+					"id" : 1
+					,"size" : 46
+					,"frequence" : 78
+				}
+				,"aimBarre_3" : {
+					"id" : 2
+					,"size" : 56
+					,"frequence" : 83
+				}
+			}
+			,"popGoodPnj" : 10
+		}
+		
+		,"lvl_7" : {
+			"reflectionTimer" : 10
+			,"luck" : 83
+			,"aimBarre" : {
+				"aimBarre_1" : {
+					"id" : 0
+					,"size" : 33
+					,"frequence" : 72
+				}
+				,"aimBarre_2" : {
+					"id" : 1
+					,"size" : 43
+					,"frequence" : 80
+				}
+				,"aimBarre_3" : {
+					"id" : 2
+					,"size" : 53
+					,"frequence" : 85
+				}
+			}
+			,"popGoodPnj" : 10
+		}
+		
+		,"lvl_8" : {
+			"reflectionTimer" : 10
+			,"luck" : 81
+			,"aimBarre" : {
+				"aimBarre_1" : {
+					"id" : 0
+					,"size" : 31
+					,"frequence" : 73
+				}
+				,"aimBarre_2" : {
+					"id" : 1
+					,"size" : 41
+					,"frequence" : 82
+				}
+				,"aimBarre_3" : {
+					"id" : 2
+					,"size" : 51
+					,"frequence" : 88
+				}
+			}
+			,"popGoodPnj" : 10
+		}
+		
+		,"lvl_9" : {
+			"reflectionTimer" : 10
+			,"luck" : 80
+			,"aimBarre" : {
+				"aimBarre_1" : {
+					"id" : 0
+					,"size" : 28
+					,"frequence" : 74
+				}
+				,"aimBarre_2" : {
+					"id" : 1
+					,"size" : 38
+					,"frequence" : 85
+				}
+				,"aimBarre_3" : {
+					"id" : 2
+					,"size" : 48
+					,"frequence" : 90
+				}
+			}
+			,"popGoodPnj" : 10
+		}
+		
+		,"lvl_10" : {
+			"reflectionTimer" : 10
+			,"luck" : 80
+			,"aimBarre" : {
+				"aimBarre_1" : {
+					"id" : 0
+					,"size" : 28
+					,"frequence" : 75
+				}
+				,"aimBarre_2" : {
+					"id" : 1
+					,"size" : 36
+					,"frequence" : 88
+				}
+				,"aimBarre_3" : {
+					"id" : 2
+					,"size" : 46
+					,"frequence" : 93
+				}
+			}
+			,"popGoodPnj" : 10
+		}
+		
+		,"lvl_11" : {
+			"reflectionTimer" : 10
+			,"luck" : 80
+			,"aimBarre" : {
+				"aimBarre_1" : {
+					"id" : 0
+					,"size" : 28
+					,"frequence" : 76
+				}
+				,"aimBarre_2" : {
+					"id" : 1
+					,"size" : 35
+					,"frequence" : 90
+				}
+				,"aimBarre_3" : {
+					"id" : 2
+					,"size" : 45
+					,"frequence" : 95
+				}
+			}
+			,"popGoodPnj" : 10
+		}
+		
+		,"lvl_12" : {
+			"reflectionTimer" : 10
+			,"luck" : 80
+			,"aimBarre" : {
+				"aimBarre_1" : {
+					"id" : 0
+					,"size" : 28
+					,"frequence" : 77
+				}
+				,"aimBarre_2" : {
+					"id" : 1
+					,"size" : 34
+					,"frequence" : 92
+				}
+				,"aimBarre_3" : {
+					"id" : 2
+					,"size" : 44
+					,"frequence" : 98
+				}
+			}
+			,"popGoodPnj" : 10
+		}
+		
+		,"lvl_13" : {
+			"reflectionTimer" : 10
+			,"luck" : 80
+			,"aimBarre" : {
+				"aimBarre_1" : {
+					"id" : 0
+					,"size" : 28
+					,"frequence" : 78
+				}
+				,"aimBarre_2" : {
+					"id" : 1
+					,"size" : 33
+					,"frequence" : 95
+				}
+				,"aimBarre_3" : {
+					"id" : 2
+					,"size" : 43
+					,"frequence" : 100
+				}
+			}
+			,"popGoodPnj" : 10
+		}
+		
+		,"lvl_14" : {
+			"reflectionTimer" : 10
+			,"luck" : 80
+			,"aimBarre" : {
+				"aimBarre_1" : {
+					"id" : 0
+					,"size" : 23
+					,"frequence" : 79
+				}
+				,"aimBarre_2" : {
+					"id" : 1
+					,"size" : 32
+					,"frequence" : 98
+				}
+				,"aimBarre_3" : {
+					"id" : 2
+					,"size" : 42
+					,"frequence" : 103
+				}
+			}
+			,"popGoodPnj" : 10
+		}
+		
+		,"lvl_15" : {
+			"reflectionTimer" : 10
+			,"luck" : 80
+			,"aimBarre" : {
+				"aimBarre_1" : {
+					"id" : 0
+					,"size" : 23
+					,"frequence" : 80
+				}
+				,"aimBarre_2" : {
+					"id" : 1
+					,"size" : 31
+					,"frequence" : 100
+				}
+				,"aimBarre_3" : {
+					"id" : 2
+					,"size" : 41
+					,"frequence" : 105
+				}
+			}
+			,"popGoodPnj" : 10
+		}
+	}
+}
